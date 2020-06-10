@@ -36,20 +36,8 @@ Feel free to send your pull requests and contributions :)
 - ./gitscanner.sh
 ```
 
-
-
-# Examples of use:
-
-<video src="/root/Videos/Screencast 2020-06-10 03:57:24.mp4"></video>
-
-## **The Result** 
-
-<video src="/root/Videos/Screencast 2020-06-10 03:58:29.mp4"></video>
-
-
-
 **If you want to use it anywhere on the system, create a shortcut using:**
 `ln -s /PATH-TO-FOLDER/Auto_Map.sh /usr/local/bin/`
 
 - Special thanks to Hightech <https://github.com/HightechSec> for inspiration
-- Special thanks to 21y4d <https://github.com/21y4d>
+- Special thanks to 21y4d <https://github.com/21y4d> for inspiration
