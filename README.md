@@ -2,7 +2,7 @@
 
 A script that you can run in the background!
 
-![image-20200610041717535](/root/.config/Typora/typora-user-images/image-20200610041717535.png)
+
 
 # Summary
 
