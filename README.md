@@ -33,7 +33,7 @@ Feel free to send your pull requests and contributions :)
 ```
 - git clone https://github.com/3xTpA/Auto-Map
 - cd Auto-Map
-- ./gitscanner.sh
+- ./Auto_Map.sh
 ```
 
 **If you want to use it anywhere on the system, create a shortcut using:**
